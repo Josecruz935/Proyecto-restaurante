@@ -54,7 +54,7 @@
       </div>
       
 <div class="container-fluid text-center">
-  <img src="../dist/img/cocina.jpg" alt="cocina" id="cocina"  height="300" width="300" >
+  <img src="../dist/img/coral.png" alt="coral" id="coral"  height="450px" width="450px" >
 </div>
 
 <?php

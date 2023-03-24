@@ -19,6 +19,8 @@ if (strlen(session_id()) < 1)
   <link rel="stylesheet" href="../plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="../dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="../dist/css/estil.css">
+
 
   <link rel="stylesheet" href="../plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
   <link rel="stylesheet" href="../plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
@@ -160,7 +162,7 @@ if (strlen(session_id()) < 1)
       <!-- Sidebar user panel (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="image">
-          <img src="../dist/img/comida.jpg" class="comida" alt="comida" height="50" width="350">
+          <img src="../dist/img/coral.png" class="coral" alt="coral" height="450" width="450">
         </div>
         
       </div>
@@ -206,7 +208,7 @@ if (strlen(session_id()) < 1)
               </li>
 
               <li class="nav-item">
-                <a href="categorias.php" class="nav-link">
+                <a href="menu.php" class="nav-link">
                   <i class="nav-icon fas fa-hamburger"></i>
                   <p>Menu</p>
                 </a>
@@ -231,7 +233,7 @@ if (strlen(session_id()) < 1)
            
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="categorias.php" class="nav-link">
+                <a href="usuario.php" class="nav-link">
                   <i class="nav-icon fas fa-users-cog"></i>
                   <p>usuarios</p>
                 </a>

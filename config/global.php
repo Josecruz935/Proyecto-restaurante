@@ -1,9 +1,8 @@
 <?php 
-
 define("DB_HOST","localhost");
 
 //Nombre de la base de datos
-define("DB_NAME", "bdprueba2023");
+define("DB_NAME", "bdproyecto2023");
 
 //Usuario de la base de datos
 define("DB_USERNAME", "root");

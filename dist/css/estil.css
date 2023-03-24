@@ -1,0 +1,7 @@
+body{
+    background-image: url('../../dist/img/foto2.jpg');
+    opacity: 0.9;
+    margin:auto;
+    width: 90%;
+   /* background-repeat: no-repeat;*/
+}
